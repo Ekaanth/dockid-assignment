@@ -23,4 +23,9 @@ You may also see any lint errors in the console.
 - Login Screen: Existing user can login to the screen
 
 - Signup Screen: Where new user can sign up using some of their personal details
--
+
+- Dashboard Screen: Where user can see their rating analytics
+
+- Account Screen: Where user can update few information about the user details
+
+- Rating Screen: where user can rate the other users
