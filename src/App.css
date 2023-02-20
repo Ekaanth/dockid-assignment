@@ -1,0 +1,7 @@
+.header {
+  @apply text-black lg:text-4xl md:text-3xl text-2xl font-bold;
+}
+
+.myBtn {
+  @apply text-white  font-semibold bg-blue-600 hover:bg-blue-900 duration-200 shadow-sm rounded-3xl py-2;
+}
